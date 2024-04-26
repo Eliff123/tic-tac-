@@ -20,4 +20,4 @@ while True: #skapar en loop så att spelet fortsätter tills spelaren väljer at
     game() #anropar funktionen game för att spela
     play_again = input("Vill du spela igen? (ja/nej): ").lower() # frågar ifall spelaren vill fortsätta spela
     if play_again != 'ja':   #  ifall spelaren väljer ja i åvan fråga så fortsätt
-        break # annars break
+        break # annars breakgit .
